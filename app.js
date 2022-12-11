@@ -30,4 +30,4 @@ axios.get("https://jsonplaceholder.typicode.com/users").then((data)=>{
     console.log(error.message);
 })
 }
-Contacts()
+
